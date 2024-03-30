@@ -1,0 +1,72 @@
+[
+{
+"subject_id": 10019172,
+"hadm_id": 24997044,
+"admittime": "2118-11-15 14:00:00",
+"dischtime": "2118-11-21 18:31:00",
+"deathtime": null,
+"admission_type": "ELECTIVE",
+"admit_provider_id": "P41R5N",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": "HOME HEALTH CARE",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": null,
+"race": "UNABLE TO OBTAIN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10019172,
+"gender": "F",
+"anchor_age": 63,
+"anchor_year": 2118,
+"anchor_year_group": "2011 - 2013",
+"dod": NaN
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+},
+{
+"subject_id": 10019172,
+"hadm_id": 21540783,
+"admittime": "2118-10-08 14:00:00",
+"dischtime": "2118-10-11 20:15:00",
+"deathtime": null,
+"admission_type": "ELECTIVE",
+"admit_provider_id": "P41R5N",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": "HOME",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": null,
+"race": "UNABLE TO OBTAIN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10019172,
+"gender": "F",
+"anchor_age": 63,
+"anchor_year": 2118,
+"anchor_year_group": "2011 - 2013",
+"dod": NaN
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

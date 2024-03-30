@@ -1,0 +1,67 @@
+[
+{
+"subject_id": 10008287,
+"hadm_id": 22168393,
+"admittime": "2145-09-28 01:17:00",
+"dischtime": "2145-10-02 13:35:00",
+"deathtime": null,
+"admission_type": "SURGICAL SAME DAY ADMISSION",
+"admit_provider_id": "P898NM",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": "HOME HEALTH CARE",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10008287,
+"gender": "F",
+"anchor_age": 43,
+"anchor_year": 2145,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10008287,
+"chartdate": "2145-11-09",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "166"
+},
+{
+"subject_id": 10008287,
+"chartdate": "2144-11-10",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "166.1"
+},
+{
+"subject_id": 10008287,
+"chartdate": "2146-02-11",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "90/70"
+},
+{
+"subject_id": 10008287,
+"chartdate": "2144-11-10",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "90/82"
+},
+{
+"subject_id": 10008287,
+"chartdate": "2145-11-09",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "96/60"
+}
+]
+}
+]

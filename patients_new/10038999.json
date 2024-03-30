@@ -1,0 +1,104 @@
+[
+{
+"subject_id": 10038999,
+"hadm_id": 29026789,
+"admittime": "2132-05-17 23:32:00",
+"dischtime": "2132-05-23 13:01:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P64JOR",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "REHAB",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2132-05-17 19:56:00",
+"edouttime": "2132-05-18 01:36:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10038999,
+"gender": "M",
+"anchor_age": 45,
+"anchor_year": 2131,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10038999,
+"chartdate": "2132-05-18",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "68"
+},
+{
+"subject_id": 10038999,
+"chartdate": "2132-05-18",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "220"
+},
+{
+"subject_id": 10038999,
+"chartdate": "2132-05-18",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "33.4"
+}
+]
+},
+{
+"subject_id": 10038999,
+"hadm_id": 27189241,
+"admittime": "2131-05-22 21:49:00",
+"dischtime": "2131-06-04 13:43:00",
+"deathtime": null,
+"admission_type": "OBSERVATION ADMIT",
+"admit_provider_id": "P44UQI",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2131-05-22 20:33:00",
+"edouttime": "2131-05-22 21:28:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10038999,
+"gender": "M",
+"anchor_age": 45,
+"anchor_year": 2131,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10038999,
+"chartdate": "2132-05-18",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "68"
+},
+{
+"subject_id": 10038999,
+"chartdate": "2132-05-18",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "220"
+},
+{
+"subject_id": 10038999,
+"chartdate": "2132-05-18",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "33.4"
+}
+]
+}
+]

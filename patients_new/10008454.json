@@ -1,0 +1,46 @@
+[
+{
+"subject_id": 10008454,
+"hadm_id": 20291550,
+"admittime": "2110-11-30 06:31:00",
+"dischtime": "2110-12-10 15:53:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P77BSD",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME HEALTH CARE",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2110-11-30 04:45:00",
+"edouttime": "2110-11-30 08:03:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10008454,
+"gender": "F",
+"anchor_age": 26,
+"anchor_year": 2110,
+"anchor_year_group": "2011 - 2013",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10008454,
+"chartdate": "2110-12-29",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10008454,
+"chartdate": "2110-12-29",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "118/78"
+}
+]
+}
+]

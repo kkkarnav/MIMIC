@@ -1,0 +1,39 @@
+[
+{
+"subject_id": 10022017,
+"hadm_id": 22342963,
+"admittime": "2189-09-10 00:00:00",
+"dischtime": "2189-09-16 15:00:00",
+"deathtime": null,
+"admission_type": "SURGICAL SAME DAY ADMISSION",
+"admit_provider_id": "P47E1G",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": "HOME HEALTH CARE",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10022017,
+"gender": "M",
+"anchor_age": 59,
+"anchor_year": 2189,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10022017,
+"chartdate": "2189-10-27",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "117/77"
+}
+]
+}
+]

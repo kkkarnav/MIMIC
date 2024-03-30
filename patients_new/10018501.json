@@ -1,0 +1,67 @@
+[
+{
+"subject_id": 10018501,
+"hadm_id": 28479513,
+"admittime": "2141-07-30 22:34:00",
+"dischtime": "2141-08-05 18:06:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P99698",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "SKILLED NURSING FACILITY",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": null,
+"race": "WHITE",
+"edregtime": "2141-07-30 18:53:00",
+"edouttime": "2141-07-31 00:01:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10018501,
+"gender": "M",
+"anchor_age": 83,
+"anchor_year": 2141,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10018501,
+"chartdate": "2141-11-06",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10018501,
+"chartdate": "2141-11-06",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "197"
+},
+{
+"subject_id": 10018501,
+"chartdate": "2141-11-06",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.9"
+},
+{
+"subject_id": 10018501,
+"chartdate": "2141-09-11",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "150/88"
+},
+{
+"subject_id": 10018501,
+"chartdate": "2141-11-06",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "160/78"
+}
+]
+}
+]

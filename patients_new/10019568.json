@@ -1,0 +1,37 @@
+[
+{
+"subject_id": 10019568,
+"hadm_id": 28710730,
+"admittime": "2120-01-30 21:07:00",
+"dischtime": "2120-02-02 15:40:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P80LEI",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2120-01-30 19:44:00",
+"edouttime": "2120-01-30 22:51:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10019568,
+"gender": "F",
+"anchor_age": 59,
+"anchor_year": 2120,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

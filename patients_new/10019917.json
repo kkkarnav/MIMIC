@@ -1,0 +1,193 @@
+[
+{
+"subject_id": 10019917,
+"hadm_id": 22585261,
+"admittime": "2182-01-07 23:25:00",
+"dischtime": "2182-01-10 16:52:00",
+"deathtime": null,
+"admission_type": "URGENT",
+"admit_provider_id": "P3529J",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "HOME",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "OTHER",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10019917,
+"gender": "M",
+"anchor_age": 44,
+"anchor_year": 2182,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10019917,
+"chartdate": "2182-02-14",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "69"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "71"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-02-14",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "172"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "24.6"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-02-14",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "25.4"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-02-14",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "130/73"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 6,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 11,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 14,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 7,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 13,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 10,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 4,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 9,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 5,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 17,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 16,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 15,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 8,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 3,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 12,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+},
+{
+"subject_id": 10019917,
+"chartdate": "2182-01-09",
+"seq_num": 2,
+"result_name": "Weight (Lbs)",
+"result_value": "176.37"
+}
+]
+}
+]

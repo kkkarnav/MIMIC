@@ -1,0 +1,537 @@
+[
+{
+"subject_id": 10020740,
+"hadm_id": 23831430,
+"admittime": "2150-03-11 15:34:00",
+"dischtime": "2150-04-25 13:50:00",
+"deathtime": null,
+"admission_type": "URGENT",
+"admit_provider_id": "P7554I",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "SKILLED NURSING FACILITY",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10020740,
+"gender": "M",
+"anchor_age": 56,
+"anchor_year": 2150,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "66"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "26.1"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.9"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "28.3"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "172.7"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "180.4"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "115/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "116/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "166.89"
+}
+]
+},
+{
+"subject_id": 10020740,
+"hadm_id": 25826145,
+"admittime": "2150-06-03 20:12:00",
+"dischtime": "2150-06-07 15:05:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P80QIV",
+"admission_location": "PACU",
+"discharge_location": "SKILLED NURSING FACILITY",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10020740,
+"gender": "M",
+"anchor_age": 56,
+"anchor_year": 2150,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "66"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "26.1"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.9"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "28.3"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "172.7"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "180.4"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "115/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "116/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "166.89"
+}
+]
+},
+{
+"subject_id": 10020740,
+"hadm_id": 23143086,
+"admittime": "2151-01-15 15:25:00",
+"dischtime": "2151-01-16 02:38:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P607HY",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": null,
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2151-01-15 11:47:00",
+"edouttime": "2151-01-16 02:38:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10020740,
+"gender": "M",
+"anchor_age": 56,
+"anchor_year": 2150,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "66"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "26.1"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.9"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "28.3"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "172.7"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "180.4"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "115/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "116/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "166.89"
+}
+]
+},
+{
+"subject_id": 10020740,
+"hadm_id": 23199774,
+"admittime": "2150-09-15 14:09:00",
+"dischtime": "2150-09-15 17:09:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P30KYN",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": null,
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2150-09-15 09:31:00",
+"edouttime": "2150-09-15 17:09:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10020740,
+"gender": "M",
+"anchor_age": 56,
+"anchor_year": 2150,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "66"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "26.1"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.9"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "28.3"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "172.7"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "180.4"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "115/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "116/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "166.89"
+}
+]
+},
+{
+"subject_id": 10020740,
+"hadm_id": 29820177,
+"admittime": "2150-07-09 22:09:00",
+"dischtime": "2150-07-12 18:00:00",
+"deathtime": null,
+"admission_type": "DIRECT OBSERVATION",
+"admit_provider_id": "P1942H",
+"admission_location": "CLINIC REFERRAL",
+"discharge_location": null,
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10020740,
+"gender": "M",
+"anchor_age": 56,
+"anchor_year": 2150,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "66"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "26.1"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.9"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "28.3"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "172.7"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "180.4"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-05-21",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "115/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-06-18",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "116/67"
+},
+{
+"subject_id": 10020740,
+"chartdate": "2150-07-10",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "166.89"
+}
+]
+}
+]

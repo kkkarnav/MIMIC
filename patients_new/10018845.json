@@ -1,0 +1,37 @@
+[
+{
+"subject_id": 10018845,
+"hadm_id": 21101111,
+"admittime": "2184-10-08 02:28:00",
+"dischtime": "2184-10-11 17:00:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P34SFE",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "REHAB",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "MARRIED",
+"race": "WHITE",
+"edregtime": "2184-10-07 22:35:00",
+"edouttime": "2184-10-08 04:09:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10018845,
+"gender": "M",
+"anchor_age": 91,
+"anchor_year": 2184,
+"anchor_year_group": "2014 - 2016",
+"dod": "2184-11-22"
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

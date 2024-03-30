@@ -1,0 +1,72 @@
+[
+{
+"subject_id": 10021938,
+"hadm_id": 23112364,
+"admittime": "2181-10-13 01:48:00",
+"dischtime": "2181-10-14 17:40:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P3529J",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2181-10-12 20:17:00",
+"edouttime": "2181-10-13 02:52:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10021938,
+"gender": "M",
+"anchor_age": 65,
+"anchor_year": 2181,
+"anchor_year_group": "2011 - 2013",
+"dod": "2182-10-16"
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+},
+{
+"subject_id": 10021938,
+"hadm_id": 27154822,
+"admittime": "2181-10-25 10:44:00",
+"dischtime": "2181-10-27 15:30:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P99BGS",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2181-10-25 09:23:00",
+"edouttime": "2181-10-25 11:35:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10021938,
+"gender": "M",
+"anchor_age": 65,
+"anchor_year": 2181,
+"anchor_year_group": "2011 - 2013",
+"dod": "2182-10-16"
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

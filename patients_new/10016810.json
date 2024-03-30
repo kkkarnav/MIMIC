@@ -1,0 +1,39 @@
+[
+{
+"subject_id": 10016810,
+"hadm_id": 20973395,
+"admittime": "2185-06-16 01:31:00",
+"dischtime": "2185-06-21 15:55:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P3638G",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": null,
+"race": "UNKNOWN",
+"edregtime": "2185-06-15 23:08:00",
+"edouttime": "2185-06-16 02:16:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10016810,
+"gender": "F",
+"anchor_age": 66,
+"anchor_year": 2185,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10016810,
+"chartdate": "2185-07-08",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "142/67"
+}
+]
+}
+]

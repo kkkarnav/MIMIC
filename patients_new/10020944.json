@@ -1,0 +1,37 @@
+[
+{
+"subject_id": 10020944,
+"hadm_id": 29974575,
+"admittime": "2131-02-27 15:34:00",
+"dischtime": "2131-03-13 17:01:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P27588",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "SKILLED NURSING FACILITY",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": null,
+"race": "UNKNOWN",
+"edregtime": "2131-02-27 13:16:00",
+"edouttime": "2131-02-27 16:40:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10020944,
+"gender": "M",
+"anchor_age": 72,
+"anchor_year": 2131,
+"anchor_year_group": "2014 - 2016",
+"dod": "2131-04-28"
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

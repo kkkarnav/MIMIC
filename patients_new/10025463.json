@@ -1,0 +1,118 @@
+[
+{
+"subject_id": 10025463,
+"hadm_id": 24470193,
+"admittime": "2137-10-08 21:20:00",
+"dischtime": "2137-10-09 15:30:00",
+"deathtime": "2137-10-09 15:30:00",
+"admission_type": "EW EMER.",
+"admit_provider_id": "P01LRQ",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "DIED",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "MARRIED",
+"race": "WHITE",
+"edregtime": "2137-10-08 18:16:00",
+"edouttime": "2137-10-08 20:44:00",
+"hospital_expire_flag": 1,
+"patients": [
+{
+"subject_id": 10025463,
+"gender": "M",
+"anchor_age": 66,
+"anchor_year": 2136,
+"anchor_year_group": "2011 - 2013",
+"dod": "2137-10-09"
+}
+],
+"omr": [
+{
+"subject_id": 10025463,
+"chartdate": "2137-01-05",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "178"
+},
+{
+"subject_id": 10025463,
+"chartdate": "2136-08-11",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "178"
+},
+{
+"subject_id": 10025463,
+"chartdate": "2136-08-11",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "120/90"
+},
+{
+"subject_id": 10025463,
+"chartdate": "2137-01-05",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "160/102"
+}
+]
+},
+{
+"subject_id": 10025463,
+"hadm_id": 27327816,
+"admittime": "2136-10-31 07:15:00",
+"dischtime": "2136-11-02 16:50:00",
+"deathtime": null,
+"admission_type": "DIRECT EMER.",
+"admit_provider_id": "P38W5P",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": "HOME",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "MARRIED",
+"race": "WHITE",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10025463,
+"gender": "M",
+"anchor_age": 66,
+"anchor_year": 2136,
+"anchor_year_group": "2011 - 2013",
+"dod": "2137-10-09"
+}
+],
+"omr": [
+{
+"subject_id": 10025463,
+"chartdate": "2137-01-05",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "178"
+},
+{
+"subject_id": 10025463,
+"chartdate": "2136-08-11",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "178"
+},
+{
+"subject_id": 10025463,
+"chartdate": "2136-08-11",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "120/90"
+},
+{
+"subject_id": 10025463,
+"chartdate": "2137-01-05",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "160/102"
+}
+]
+}
+]

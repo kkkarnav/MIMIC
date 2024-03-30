@@ -1,0 +1,130 @@
+[
+{
+"subject_id": 10006580,
+"hadm_id": 24159665,
+"admittime": "2137-08-10 11:00:00",
+"dischtime": "2137-08-15 13:25:00",
+"deathtime": null,
+"admission_type": "ELECTIVE",
+"admit_provider_id": "P76K54",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": "HOME",
+"insurance": "Medicaid",
+"language": "?",
+"marital_status": "MARRIED",
+"race": "HISPANIC/LATINO - SALVADORAN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10006580,
+"gender": "F",
+"anchor_age": 63,
+"anchor_year": 2137,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10006580,
+"chartdate": "2137-08-19",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "168"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-10-14",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "168"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-02-23",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "168"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-08-04",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "168"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-03-16",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "168"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-03-18",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "168"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-11-16",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "172"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-08-04",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "134/84"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-03-16",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "138/70"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-10-14",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "139/75"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-02-23",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "140/81"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-08-19",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "142/74"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-03-18",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "145/88"
+},
+{
+"subject_id": 10006580,
+"chartdate": "2137-11-16",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "148/77"
+}
+]
+}
+]

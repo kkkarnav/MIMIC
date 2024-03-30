@@ -1,0 +1,37 @@
+[
+{
+"subject_id": 10022281,
+"hadm_id": 29642388,
+"admittime": "2125-06-17 04:11:00",
+"dischtime": "2125-06-19 15:25:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P76K54",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "MARRIED",
+"race": "OTHER",
+"edregtime": "2125-06-16 20:32:00",
+"edouttime": "2125-06-17 05:14:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10022281,
+"gender": "M",
+"anchor_age": 84,
+"anchor_year": 2125,
+"anchor_year_group": "2011 - 2013",
+"dod": NaN
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

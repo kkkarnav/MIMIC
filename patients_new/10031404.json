@@ -1,0 +1,37 @@
+[
+{
+"subject_id": 10031404,
+"hadm_id": 21606243,
+"admittime": "2113-08-04 18:46:00",
+"dischtime": "2113-08-06 20:57:00",
+"deathtime": null,
+"admission_type": "URGENT",
+"admit_provider_id": "P07HDB",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "HOME",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "WIDOWED",
+"race": "WHITE",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10031404,
+"gender": "F",
+"anchor_age": 82,
+"anchor_year": 2113,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

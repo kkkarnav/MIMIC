@@ -1,0 +1,37 @@
+[
+{
+"subject_id": 10036156,
+"hadm_id": 28019404,
+"admittime": "2157-07-01 04:52:00",
+"dischtime": "2157-07-03 15:08:00",
+"deathtime": null,
+"admission_type": "URGENT",
+"admit_provider_id": "P94V16",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "HOME",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": null,
+"race": "UNKNOWN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10036156,
+"gender": "F",
+"anchor_age": 88,
+"anchor_year": 2157,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

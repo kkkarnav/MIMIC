@@ -1,0 +1,60 @@
+[
+{
+"subject_id": 10029484,
+"hadm_id": 20764029,
+"admittime": "2160-11-08 04:16:00",
+"dischtime": "2160-11-11 11:40:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P38TI6",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "WHITE",
+"edregtime": "2160-11-07 19:15:00",
+"edouttime": "2160-11-08 05:23:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10029484,
+"gender": "M",
+"anchor_age": 64,
+"anchor_year": 2160,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10029484,
+"chartdate": "2160-11-19",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "192"
+},
+{
+"subject_id": 10029484,
+"chartdate": "2159-11-14",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "198"
+},
+{
+"subject_id": 10029484,
+"chartdate": "2160-11-19",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "114/59"
+},
+{
+"subject_id": 10029484,
+"chartdate": "2159-11-14",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "120/74"
+}
+]
+}
+]

@@ -1,0 +1,37 @@
+[
+{
+"subject_id": 10037975,
+"hadm_id": 27617929,
+"admittime": "2185-01-17 19:11:00",
+"dischtime": "2185-01-22 14:25:00",
+"deathtime": "2185-01-22 14:25:00",
+"admission_type": "URGENT",
+"admit_provider_id": "P17MK7",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "DIED",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "MARRIED",
+"race": "UNKNOWN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 1,
+"patients": [
+{
+"subject_id": 10037975,
+"gender": "M",
+"anchor_age": 60,
+"anchor_year": 2185,
+"anchor_year_group": "2014 - 2016",
+"dod": "2185-01-22"
+}
+],
+"omr": {
+"subject_id": null,
+"chartdate": null,
+"seq_num": null,
+"result_name": null,
+"result_value": null
+}
+}
+]

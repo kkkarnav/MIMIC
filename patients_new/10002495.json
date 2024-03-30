@@ -1,0 +1,88 @@
+[
+{
+"subject_id": 10002495,
+"hadm_id": 24982426,
+"admittime": "2141-05-22 20:17:00",
+"dischtime": "2141-05-29 17:41:00",
+"deathtime": null,
+"admission_type": "URGENT",
+"admit_provider_id": "P79SJ2",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "SKILLED NURSING FACILITY",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "MARRIED",
+"race": "UNKNOWN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002495,
+"gender": "M",
+"anchor_age": 81,
+"anchor_year": 2141,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10002495,
+"chartdate": "2140-11-01",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "66"
+},
+{
+"subject_id": 10002495,
+"chartdate": "2140-12-11",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "66"
+},
+{
+"subject_id": 10002495,
+"chartdate": "2140-11-01",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "160"
+},
+{
+"subject_id": 10002495,
+"chartdate": "2140-12-11",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "160"
+},
+{
+"subject_id": 10002495,
+"chartdate": "2140-11-01",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "25.8"
+},
+{
+"subject_id": 10002495,
+"chartdate": "2140-12-11",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "25.8"
+},
+{
+"subject_id": 10002495,
+"chartdate": "2140-11-01",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "148/72"
+},
+{
+"subject_id": 10002495,
+"chartdate": "2140-12-11",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "159/59"
+}
+]
+}
+]

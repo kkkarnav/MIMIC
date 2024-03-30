@@ -1,0 +1,46 @@
+[
+{
+"subject_id": 10029291,
+"hadm_id": 22205327,
+"admittime": "2123-02-20 01:59:00",
+"dischtime": "2123-03-10 15:30:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P44UQI",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "HOME HEALTH CARE",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "DIVORCED",
+"race": "WHITE",
+"edregtime": "2123-02-19 23:57:00",
+"edouttime": "2123-02-20 04:13:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10029291,
+"gender": "F",
+"anchor_age": 50,
+"anchor_year": 2123,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10029291,
+"chartdate": "2123-04-05",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "113"
+},
+{
+"subject_id": 10029291,
+"chartdate": "2123-04-05",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "151/86"
+}
+]
+}
+]

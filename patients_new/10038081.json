@@ -1,0 +1,53 @@
+[
+{
+"subject_id": 10038081,
+"hadm_id": 20755971,
+"admittime": "2115-09-27 20:40:00",
+"dischtime": "2115-10-12 00:00:00",
+"deathtime": "2115-10-12 22:20:00",
+"admission_type": "URGENT",
+"admit_provider_id": "P48GIG",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "DIED",
+"insurance": "Other",
+"language": "?",
+"marital_status": "SINGLE",
+"race": "UNKNOWN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 1,
+"patients": [
+{
+"subject_id": 10038081,
+"gender": "F",
+"anchor_age": 63,
+"anchor_year": 2115,
+"anchor_year_group": "2014 - 2016",
+"dod": "2115-10-12"
+}
+],
+"omr": [
+{
+"subject_id": 10038081,
+"chartdate": "2115-09-27",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10038081,
+"chartdate": "2115-09-27",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "25.6"
+},
+{
+"subject_id": 10038081,
+"chartdate": "2115-09-27",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "139.99"
+}
+]
+}
+]

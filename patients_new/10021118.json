@@ -1,0 +1,67 @@
+[
+{
+"subject_id": 10021118,
+"hadm_id": 24490144,
+"admittime": "2161-11-15 20:10:00",
+"dischtime": "2161-11-23 16:00:00",
+"deathtime": null,
+"admission_type": "URGENT",
+"admit_provider_id": "P96FGV",
+"admission_location": "TRANSFER FROM HOSPITAL",
+"discharge_location": "HOME HEALTH CARE",
+"insurance": "Other",
+"language": "ENGLISH",
+"marital_status": "MARRIED",
+"race": "WHITE",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10021118,
+"gender": "M",
+"anchor_age": 62,
+"anchor_year": 2161,
+"anchor_year_group": "2014 - 2016",
+"dod": NaN
+}
+],
+"omr": [
+{
+"subject_id": 10021118,
+"chartdate": "2161-11-15",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "71"
+},
+{
+"subject_id": 10021118,
+"chartdate": "2161-11-15",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "35.2"
+},
+{
+"subject_id": 10021118,
+"chartdate": "2161-11-29",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "111/72"
+},
+{
+"subject_id": 10021118,
+"chartdate": "2161-12-25",
+"seq_num": 1,
+"result_name": "Blood Pressure",
+"result_value": "135/76"
+},
+{
+"subject_id": 10021118,
+"chartdate": "2161-11-15",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "252.65"
+}
+]
+}
+]

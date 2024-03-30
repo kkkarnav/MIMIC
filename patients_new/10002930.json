@@ -1,0 +1,782 @@
+[
+{
+"subject_id": 10002930,
+"hadm_id": 28301173,
+"admittime": "2197-04-08 19:37:00",
+"dischtime": "2197-04-15 12:01:00",
+"deathtime": null,
+"admission_type": "URGENT",
+"admit_provider_id": "P3763P",
+"admission_location": "INTERNAL TRANSFER TO OR FROM PSYCH",
+"discharge_location": "HOME",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 22733922,
+"admittime": "2198-04-22 16:17:00",
+"dischtime": "2198-05-04 13:20:00",
+"deathtime": null,
+"admission_type": "URGENT",
+"admit_provider_id": "P3763P",
+"admission_location": "INTERNAL TRANSFER TO OR FROM PSYCH",
+"discharge_location": "HOME",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": null,
+"edouttime": null,
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 25922998,
+"admittime": "2198-04-17 19:38:00",
+"dischtime": "2198-04-22 16:02:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P30KEH",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "PSYCH FACILITY",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2198-04-17 11:42:00",
+"edouttime": "2198-04-17 21:24:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 25696644,
+"admittime": "2196-04-14 12:25:00",
+"dischtime": "2196-04-17 15:28:00",
+"deathtime": null,
+"admission_type": "EW EMER.",
+"admit_provider_id": "P43A1R",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": "PSYCH FACILITY",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2196-04-14 05:55:00",
+"edouttime": "2196-04-14 13:40:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 23688993,
+"admittime": "2193-08-05 11:45:00",
+"dischtime": "2193-08-11 09:25:00",
+"deathtime": null,
+"admission_type": "DIRECT EMER.",
+"admit_provider_id": "P356OC",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": "HOME",
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2193-08-05 05:04:00",
+"edouttime": "2193-08-05 12:00:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 25282382,
+"admittime": "2197-04-17 02:01:00",
+"dischtime": "2197-04-17 09:48:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P33NK4",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": null,
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2197-04-16 22:57:00",
+"edouttime": "2197-04-17 09:48:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 28697806,
+"admittime": "2200-06-05 05:43:00",
+"dischtime": "2200-06-05 10:26:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P68U3G",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": null,
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2200-06-04 16:38:00",
+"edouttime": "2200-06-05 10:26:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 20846853,
+"admittime": "2201-02-12 16:58:00",
+"dischtime": "2201-02-13 11:11:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P2358X",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": null,
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2201-02-12 15:11:00",
+"edouttime": "2201-02-13 11:11:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 22380825,
+"admittime": "2193-08-05 06:18:00",
+"dischtime": "2193-08-05 11:44:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P38XXV",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": null,
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2193-08-05 05:04:00",
+"edouttime": "2193-08-05 12:00:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 23720373,
+"admittime": "2199-02-17 21:45:00",
+"dischtime": "2199-02-19 13:38:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P59HPG",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": null,
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2199-02-17 14:32:00",
+"edouttime": "2199-02-19 13:38:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 20282368,
+"admittime": "2201-03-23 19:15:00",
+"dischtime": "2201-03-26 14:24:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P850UN",
+"admission_location": "PHYSICIAN REFERRAL",
+"discharge_location": null,
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2201-03-23 12:04:00",
+"edouttime": "2201-03-26 14:24:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+},
+{
+"subject_id": 10002930,
+"hadm_id": 28477649,
+"admittime": "2197-04-07 06:56:00",
+"dischtime": "2197-04-08 19:37:00",
+"deathtime": null,
+"admission_type": "EU OBSERVATION",
+"admit_provider_id": "P11RCJ",
+"admission_location": "EMERGENCY ROOM",
+"discharge_location": null,
+"insurance": "Medicare",
+"language": "ENGLISH",
+"marital_status": "SINGLE",
+"race": "BLACK/AFRICAN AMERICAN",
+"edregtime": "2197-04-07 03:20:00",
+"edouttime": "2197-04-08 20:14:00",
+"hospital_expire_flag": 0,
+"patients": [
+{
+"subject_id": 10002930,
+"gender": "F",
+"anchor_age": 48,
+"anchor_year": 2193,
+"anchor_year_group": "2011 - 2013",
+"dod": "2201-12-24"
+}
+],
+"omr": [
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Height (Inches)",
+"result_value": "62"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "27.8"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "BMI (kg/m2)",
+"result_value": "30.2"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2197-04-08",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "152.00"
+},
+{
+"subject_id": 10002930,
+"chartdate": "2198-04-22",
+"seq_num": 1,
+"result_name": "Weight (Lbs)",
+"result_value": "165.00"
+}
+]
+}
+]
